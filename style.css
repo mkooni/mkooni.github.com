@@ -1,0 +1,11 @@
+body {
+    color: rgb(244, 240, 255);
+    background-color: rgb(139, 12, 12);
+}
+#your_id_here{
+    color: black;
+}
+img {
+    margin-left: 900px;
+    margin-top: 250px;
+}
